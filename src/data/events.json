@@ -1,0 +1,231 @@
+[
+  {
+    "id": "event-001",
+    "title": "The Book of Mormon",
+    "tags": ["Theater", "Musical", "Comedy"],
+    "about": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.",
+    "vibe": ["Chill", "Upbeat", "Funny", "Playful"],
+    "location": "San Francisco, CA - Golden Gate Theatre",
+    "date_range": {
+      "start": "March 04, 2020",
+      "end": "December 31, 2020"
+    },
+    "similar_events": ["Glee", "Grease", "High School Musical", "Arrested Development"],
+    "artists": [
+      { "id": "artist-001", "name": "Tom Xander", "image": "/assets/images/actor-1.png" },
+      { "id": "artist-002", "name": "Tom Xander", "image": "/assets/images/actor-2.png" },
+      { "id": "artist-003", "name": "Tom Xander", "image": "/assets/images/actor-3.png" },
+      { "id": "artist-004", "name": "Tom Xander", "image": "/assets/images/actor-4.png" },
+      { "id": "artist-005", "name": "Tom Xander", "image": "/assets/images/actor-5.png" },
+      { "id": "artist-006", "name": "Tom Xander", "image": "/assets/images/actor-6.png" },
+      { "id": "artist-007", "name": "Tom Xander", "image": "/assets/images/actor-7.png" },
+      { "id": "artist-008", "name": "Tom Xander", "image": "/assets/images/actor-8.png" }
+    ],
+    "price_range": {
+      "min": 50,
+      "max": 200
+    },
+    "useful_info": {
+      "type_of_event": "Live event",
+      "theatre": "Golden Gate Theatre",
+      "website": "bookofmormon.com/about",
+      "age_appropriate": "Ages 16 & up",
+      "contact_number": null
+    },
+    "standard_pricing": {
+      "Member": {
+        "price": 50,
+        "currency": "USD"
+      },
+      "Standard": {
+        "price": 100,
+        "currency": "USD"
+      }
+    },
+    "card_image": "/assets/images/bom-2.png"
+  },
+  {
+    "id": "event-002",
+    "title": "SF Orchestra",
+    "tags": ["Orchestra", "Classical", "Live"],
+    "about": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "short_description": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "vibe": ["Elegant", "Thought-provoking"],
+    "location": "San Francisco, CA",
+    "date_range": {
+      "start": "July 04, 2025",
+      "end": "July 10, 2025"
+    },
+    "similar_events":  ["Glee", "Grease", "High School Musical", "Arrested Development"],
+    "artists": [
+      { "id": "artist-001", "name": "Tom Xander", "image": "/assets/images/actor-1.png" },
+      { "id": "artist-002", "name": "Tom Xander", "image": "/assets/images/actor-2.png" },
+      { "id": "artist-003", "name": "Tom Xander", "image": "/assets/images/actor-3.png" },
+      { "id": "artist-004", "name": "Tom Xander", "image": "/assets/images/actor-4.png" },
+      { "id": "artist-005", "name": "Tom Xander", "image": "/assets/images/actor-5.png" },
+      { "id": "artist-006", "name": "Tom Xander", "image": "/assets/images/actor-6.png" },
+      { "id": "artist-007", "name": "Tom Xander", "image": "/assets/images/actor-7.png" },
+      { "id": "artist-008", "name": "Tom Xander", "image": "/assets/images/actor-8.png" }
+    ],
+    "price_range": {
+      "min": 50,
+      "max": 100
+    },
+    "useful_info": {
+      "type_of_event": "Orchestra",
+      "theatre": "SF Opera House",
+      "website": "sfoperahouse.com/about",
+      "age_appropriate": "All Ages",
+      "contact_number": null
+    },
+    "standard_pricing": {
+      "Member": {
+        "price": 50,
+        "currency": "USD"
+      },
+      "Standard": {
+        "price": 100,
+        "currency": "USD"
+      }
+    },
+    "card_image": "/assets/images/SF_Orchestra.jpg"
+  },
+  {
+    "id": "event-003",
+    "title": "Jeffery Sampson",
+    "tags": ["Theatre", "Drama"],
+    "about": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "short_description": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "vibe": ["Serious", "Intellectual"],
+    "location": "New York City, NY",
+    "date_range": {
+      "start": "August 01, 2025",
+      "end": "August 05, 2025"
+    },
+    "similar_events":  ["Glee", "Grease", "High School Musical", "Arrested Development"],
+    "artists": [
+      { "id": "artist-001", "name": "Tom Xander", "image": "/assets/images/actor-1.png" },
+      { "id": "artist-002", "name": "Tom Xander", "image": "/assets/images/actor-2.png" },
+      { "id": "artist-003", "name": "Tom Xander", "image": "/assets/images/actor-3.png" },
+      { "id": "artist-004", "name": "Tom Xander", "image": "/assets/images/actor-4.png" },
+      { "id": "artist-005", "name": "Tom Xander", "image": "/assets/images/actor-5.png" },
+      { "id": "artist-006", "name": "Tom Xander", "image": "/assets/images/actor-6.png" },
+      { "id": "artist-007", "name": "Tom Xander", "image": "/assets/images/actor-7.png" },
+      { "id": "artist-008", "name": "Tom Xander", "image": "/assets/images/actor-8.png" }
+    ],
+    "price_range": {
+      "min": 50,
+      "max": 100
+    },
+    "useful_info": {
+      "type_of_event": "Theatrical Performance",
+      "theatre": "Downtown Playhouse",
+      "website": "theatre.com/jeffery-sampson",
+      "age_appropriate": "16+",
+      "contact_number": null
+    },
+    "standard_pricing": {
+      "Member": {
+        "price": 50,
+        "currency": "USD"
+      },
+      "Standard": {
+        "price": 100,
+        "currency": "USD"
+      }
+    },
+    "card_image": "/assets/images/Jeffery_Sampson.jpg"
+  },
+  {
+    "id": "event-004",
+    "title": "SF Symphony Sound Box",
+    "tags": ["Symphony", "Experimental", "Classical"],
+    "about": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "short_description": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "vibe": ["Innovative", "Artsy"],
+    "location": "San Francisco, CA",
+    "date_range": {
+      "start": "September 01, 2025",
+      "end": "September 10, 2025"
+    },
+    "similar_events":  ["Glee", "Grease", "High School Musical", "Arrested Development"],
+    "artists": [
+      { "id": "artist-001", "name": "Tom Xander", "image": "/assets/images/actor-1.png" },
+      { "id": "artist-002", "name": "Tom Xander", "image": "/assets/images/actor-2.png" },
+      { "id": "artist-003", "name": "Tom Xander", "image": "/assets/images/actor-3.png" },
+      { "id": "artist-004", "name": "Tom Xander", "image": "/assets/images/actor-4.png" },
+      { "id": "artist-005", "name": "Tom Xander", "image": "/assets/images/actor-5.png" },
+      { "id": "artist-006", "name": "Tom Xander", "image": "/assets/images/actor-6.png" },
+      { "id": "artist-007", "name": "Tom Xander", "image": "/assets/images/actor-7.png" },
+      { "id": "artist-008", "name": "Tom Xander", "image": "/assets/images/actor-8.png" }
+    ],
+    "price_range": {
+      "min": 50,
+      "max": 100
+    },
+    "useful_info": {
+      "type_of_event": "Symphonic Experience",
+      "theatre": "SF Symphony Hall",
+      "website": "sfoperahouse.com/about",
+      "age_appropriate": "All Ages",
+      "contact_number": null
+    },
+    "standard_pricing": {
+      "Member": {
+        "price": 50,
+        "currency": "USD"
+      },
+      "Standard": {
+        "price": 100,
+        "currency": "USD"
+      }
+    },
+    "card_image": "/assets/images/Sf_Symphony_Sound_Box.jpg"
+  },
+  {
+    "id": "event-005",
+    "title": "Moulin Rouge",
+    "tags": ["Musical", "Theatre", "Romantic"],
+    "about": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "short_description": "First staged in 2011, the play is a satirical examination of the beliefs and practices of The Church of Jesus Christ of Latter-day Saints.",
+    "vibe": ["Romantic", "Glamorous"],
+    "location": "New York City, NY",
+    "date_range": {
+      "start": "July 25, 2025",
+      "end": "July 30, 2025"
+    },
+    "similar_events":  ["Glee", "Grease", "High School Musical", "Arrested Development"],
+    "artists": [
+      { "id": "artist-001", "name": "Tom Xander", "image": "/assets/images/actor-1.png" },
+      { "id": "artist-002", "name": "Tom Xander", "image": "/assets/images/actor-2.png" },
+      { "id": "artist-003", "name": "Tom Xander", "image": "/assets/images/actor-3.png" },
+      { "id": "artist-004", "name": "Tom Xander", "image": "/assets/images/actor-4.png" },
+      { "id": "artist-005", "name": "Tom Xander", "image": "/assets/images/actor-5.png" },
+      { "id": "artist-006", "name": "Tom Xander", "image": "/assets/images/actor-6.png" },
+      { "id": "artist-007", "name": "Tom Xander", "image": "/assets/images/actor-7.png" },
+      { "id": "artist-008", "name": "Tom Xander", "image": "/assets/images/actor-8.png" }
+    ],
+    "price_range": {
+      "min": 50,
+      "max": 100
+    },
+    "useful_info": {
+      "type_of_event": "Musical Theatre",
+      "theatre": "Broadway Theatre",
+      "website": "broadway.com/shows/moulin-rouge",
+      "age_appropriate": "13+",
+      "contact_number": null
+    },
+    "standard_pricing": {
+      "Member": {
+        "price": 50,
+        "currency": "USD"
+      },
+      "Standard": {
+        "price": 100,
+        "currency": "USD"
+      }
+    },
+    "card_image": "/assets/images/Moulin_Rouge.jpg"
+  }
+]
